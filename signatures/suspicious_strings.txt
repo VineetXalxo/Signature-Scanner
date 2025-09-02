@@ -1,0 +1,27 @@
+# Keylogging / RAT
+pynput
+keyboard
+mouse
+socket
+threading
+connect
+recv
+send
+subprocess
+os.system
+
+# Obfuscation / Suspicious Logic
+eval
+exec
+compile
+base64
+marshal
+zlib
+struct
+importlib
+
+# IPs and Ports (basic pattern)
+127.0.0.1
+0.0.0.0
+:4444
+:8080
