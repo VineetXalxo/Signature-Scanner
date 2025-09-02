@@ -1,0 +1,17 @@
+Scan Report - 2025-07-30_03-15-43
+========================================
+
+[!] Suspicious file: C:/Users/ASUS/Desktop/scanner-test\keylogger.py
+    > Risk Score: 60
+    > Reasons: Signature: pynput, Import: pynput
+
+[!] Suspicious file: C:/Users/ASUS/Desktop/scanner-test\obfuscatedfake.py
+    > Risk Score: 60
+    > Reasons: Signature: eval, Import: eval
+
+[!] Suspicious file: C:/Users/ASUS/Desktop/scanner-test\remoteaccessfake.py
+    > Risk Score: 40
+    > Reasons: Signature: socket
+
+========================================
+Scan Complete: 3 suspicious file(s) found.
